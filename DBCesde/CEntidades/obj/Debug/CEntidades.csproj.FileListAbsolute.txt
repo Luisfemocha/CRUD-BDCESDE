@@ -1,0 +1,6 @@
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\bin\Debug\CEntidades.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\bin\Debug\CEntidades.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\obj\Debug\CEntidades.csprojAssemblyReference.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\obj\Debug\CEntidades.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\obj\Debug\CEntidades.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CEntidades\obj\Debug\CEntidades.pdb

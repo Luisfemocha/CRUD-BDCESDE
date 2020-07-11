@@ -1,0 +1,31 @@
+﻿.cuerpo {
+    background-color: #1e1e1e;
+    font-family: Verdana;
+    color: white;
+    font-weight: lighter;
+}
+main {
+    margin: 40px;
+    margin-bottom: 0px;
+}
+.sep {
+    border: 5px solid #343a40;
+    border-radius: 3px;
+}
+footer {
+    background-color: #343a40;
+    margin-left: 16px;
+    margin-right: 16px
+}
+.auto-style1 {
+    width: 100%;
+}
+.bandera {
+    float: center;
+    margin: 0;
+    position: relative;
+    width: 55px;
+    height: 36.75px;
+    background-image: -webkit-linear-gradient(top, #FCD116 0, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%, #CE1126 100%);
+    background-image: linear-gradient(180deg, #FCD116 0, #FCD116 50%, #003893 50%, #003893 75%, #CE1126 75%, #CE1126 100%);
+}

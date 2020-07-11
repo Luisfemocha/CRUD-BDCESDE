@@ -1,0 +1,9 @@
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\bin\Debug\CDatos.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\bin\Debug\CDatos.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\bin\Debug\CEntidades.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\bin\Debug\CEntidades.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\obj\Debug\CDatos.csprojAssemblyReference.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\obj\Debug\CDatos.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\obj\Debug\CDatos.csproj.CopyComplete
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\obj\Debug\CDatos.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CDatos\obj\Debug\CDatos.pdb

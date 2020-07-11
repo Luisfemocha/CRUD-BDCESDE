@@ -1,0 +1,11 @@
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CReglas.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CReglas.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CDatos.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CEntidades.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CDatos.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\bin\Debug\CEntidades.pdb
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\obj\Debug\CReglas.csprojAssemblyReference.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\obj\Debug\CReglas.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\obj\Debug\CReglas.csproj.CopyComplete
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\obj\Debug\CReglas.dll
+C:\Users\luisf\Documents\GitHub\cesde\NET\DBCesde\CReglas\obj\Debug\CReglas.pdb
